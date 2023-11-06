@@ -18,5 +18,3 @@ I’m a highly motivated QA engineer who pays close attention to details and is 
 ![TestRail](https://img.shields.io/badge/TestRail-000000?style=for-the-badge&logo=testrail&logoColor=darkgreen)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=darkgreen)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=darkgreen)
-
-## [CV](https://drive.google.com/file/d/10sGmKCc2NU7eQLUneVulxnIL79Xt3itJ/view?usp=sharing)
